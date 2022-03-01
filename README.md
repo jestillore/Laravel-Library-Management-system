@@ -7,6 +7,7 @@
 5. `cp .env.example .env`
 6. `php artisan key:generate`
 7. Edit `.env` file to configure database
+8. `php artisan migrate`
 
 ## Testing
 1. `php artisan serve`
